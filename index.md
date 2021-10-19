@@ -15,7 +15,6 @@ Syntax highlighted code block
 ### Header 3
 
 
-
 ```
 
 ### Support or Contact
