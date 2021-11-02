@@ -33,9 +33,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
-domain: gsonh.github.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+domain: gsonh.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://gsonh.github.io/page/  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /REPOSITORY-NAME/ 
+baseurl: /page/ 
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
