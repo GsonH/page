@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "StormVPN Privacy agreement"
+date:   2021-11-02 14:27:02 +0800
+categories: StormVPN
+---
+
+StormVPN respects and protects the personal privacy of all service users. Except as otherwise provided in this privacy policy, StormVPN will not disclose this information or provide it to a third party without your prior permission. This application will update this privacy policy from time to time. When you agree to this application service use agreement, you are deemed to have agreed to the entire content of this privacy policy. This privacy policy is an integral part of this application service usage agreement.
+
+1. Scope of application You understand and agree that the following information does not apply to this privacy policy: (a) The relevant information and data that you publish in this application collected by StormVPN, including but not limited to participation in activities and evaluation details; (b) Violation of legal provisions or violations of the rules of this application and the measures that this application has taken against you.
+
+2. Use of Information (a) StormVPN will not provide, sell, rent, share or trade your personal information to any irrelevant third party, unless you have obtained your permission in advance, or the third party and the application separately or jointly provide services to you, and in the After the end of the service, it will be prohibited from accessing all these materials that it was able to access before. (b) StormVPN also does not allow any third party to collect, edit, sell or disseminate your personal information by any means. If any user of this application platform engages in the above activities, once discovered, this application has the right to immediately terminate the service agreement with the user.
+
+3. Information Disclosure Under the following circumstances, StormVPN will disclose your personal information in whole or in part in accordance with your personal wishes or legal requirements: (a) Disclosure to a third party with your prior consent; (b) In order to provide the products and services you request, you must share your personal information with third parties; (c) Disclosure to third parties or administrative or judicial institutions in accordance with the relevant provisions of the law or the requirements of administrative or judicial institutions; (d) If you violate the current national laws, regulations, or this application service agreement or related rules, you need to disclose to a third party; (e) If you are a qualified intellectual property complainant and have filed a complaint, you should disclose it to the respondent at the request of the respondent, so that both parties can deal with possible rights disputes; (f) Other disclosures deemed appropriate by this application in accordance with laws, regulations or website policies.
+
+4. Information storage and exchange The information and data about you collected by this application will be stored on the server of this application.
+
+5. Information Security (a) StormVPN has security protection function. Despite the aforementioned security measures, please note that there is no "perfect security measure" on the information network.
+
+6. Changes to this privacy policy (a) If you decide to change the privacy policy, we will post these changes in this policy, on this platform, and where we deem appropriate, so that you can understand how we collect and use your personal information, who can access this information, and Under what circumstances will we disclose this information. (b) This platform reserves the right to modify this policy at any time, so please check it frequently. Such as major changes to this policy. Please properly protect your personal information and only provide it to others when necessary. If you find that your personal information is leaked, especially the user name and password of this application, please contact the customer service of this application immediately so that this application can take corresponding measures.
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
